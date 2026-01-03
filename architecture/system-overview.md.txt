@@ -1,0 +1,13 @@
+# System Architecture – Insurance Application
+
+User
+ |
+ |--> Internet
+       |
+       |--> AWS Load Balancer
+              |
+              |--> EC2 (Linux Server)
+                     |
+                     |--> Insurance Policy Application
+                     |
+                     |--> CloudWatch Monitoring

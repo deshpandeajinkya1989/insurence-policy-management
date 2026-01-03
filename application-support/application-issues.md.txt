@@ -1,0 +1,11 @@
+# Common Insurance Application Issues
+
+1. Policy portal not accessible
+   - Check EC2 instance status
+   - Verify application service
+   - Check security group rules
+
+2. Slow response during policy renewal
+   - Check CPU and memory usage
+   - Review application logs
+   - Escalate if performance issue continues

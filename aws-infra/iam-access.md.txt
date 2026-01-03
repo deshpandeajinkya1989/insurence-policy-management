@@ -1,0 +1,6 @@
+# IAM Access Management
+
+- IAM role attached to EC2 instance
+- Permissions limited to CloudWatch read access
+- No root credentials used
+- Followed security best practices

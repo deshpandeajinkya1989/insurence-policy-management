@@ -1,0 +1,11 @@
+# Insurance Incident Scenarios (L1)
+
+1. Policy renewal service down
+   - Check server health
+   - Restart application service
+   - Raise incident and notify L2 team
+
+2. Claim submission taking long time
+   - Monitor resource usage
+   - Check application logs
+   - Escalate if SLA is breached

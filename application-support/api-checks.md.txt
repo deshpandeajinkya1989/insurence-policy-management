@@ -1,0 +1,6 @@
+# API Availability Checks
+
+- Verify API endpoint availability
+- Check response status codes
+- Review logs for API errors
+- Escalate issues to application team if required

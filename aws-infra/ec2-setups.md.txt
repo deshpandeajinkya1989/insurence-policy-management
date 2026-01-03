@@ -1,0 +1,8 @@
+# EC2 Setup Notes
+
+- EC2 instance launched using Amazon Linux
+- SSH access enabled using key pair
+- Security group allows:
+  - SSH (22)
+  - HTTP (80)
+- Instance health monitored using CloudWatch

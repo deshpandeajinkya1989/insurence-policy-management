@@ -1,0 +1,6 @@
+# CloudWatch Monitoring – Insurance Application
+
+- CPU utilization alerts
+- Disk space monitoring
+- EC2 instance status checks
+- Application uptime monitoring

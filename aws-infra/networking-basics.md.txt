@@ -1,0 +1,6 @@
+# Networking Basics
+
+- Custom VPC created
+- Public subnet for application server
+- Internet Gateway attached
+- Security groups used for traffic control
